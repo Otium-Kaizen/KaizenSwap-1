@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@pancakeswap-libs/sdk'
+import { Token, TokenAmount } from '@kaizenv1/kaizensdk'
 import { useMemo } from 'react'
 
 import { useTokenContract } from '../hooks/useContract'

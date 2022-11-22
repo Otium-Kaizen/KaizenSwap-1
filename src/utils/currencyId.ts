@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@pancakeswap-libs/sdk'
+import { Currency, ETHER, Token } from '@kaizenv1/kaizensdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'BNB'
